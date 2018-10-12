@@ -1,7 +1,7 @@
 # sigrok-Zero1-Decoder
 A SigRok decoder for the Hornby Zero1 train Command Control system (pre dates DCC)
 
-There is still a notable following and user base for the Hormby Zero1 Digital 
+There is still a notable following and user base for the Hornby Zero1 Digital 
 Command Control system from the 1970's so I have written this decoder to let you see what
 is going on at the track level.
 
